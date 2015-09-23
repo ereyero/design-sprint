@@ -1,6 +1,6 @@
 ## Example Schedule for Understand
 
-#### Team intros *(15min)*
+#### Team intros *(20min)*
 
 Introduce the design sprint team, announce the Product Owner and acknowledge the
 others involved with the project but not participating in the design sprint.
